@@ -1,0 +1,16 @@
+Frontend
+1. Add request catching from AWS.
+2. Create Frontend display of AWS lambda response
+3. Create automatic fronend refresh click
+4. Add CSS and formatting.
+
+
+Backend:
+1. Add AWS lambda POST catching.
+2. Add AWS response
+3. Design and implement DynamoDB architecture
+4. From 3. Add user state management.
+5. Add group state management
+
+note:
+Currently, only one group. All users shares one group.
